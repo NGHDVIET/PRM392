@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nationalities">
+        <item>Vietnam</item>
+        <item>America</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>China</item>
+        <item>France</item>
+        <!-- Thêm các quốc gia khác nếu cần -->
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Self-Information</string>
+    <string name="prompt_nationality">Nationality</string>
+</resources>
